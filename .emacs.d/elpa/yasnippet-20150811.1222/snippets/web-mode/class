@@ -1,0 +1,24 @@
+# -*- mode: snippet -*-
+
+# name: class
+# key: class
+# --
+
+/**
+* ${1:Class_name} 
+*
+* @author     Ql13
+* @version    my-version
+* ...
+*/
+
+class ${1:Class_name} { 
+
+    function ${2:Method_name}() { 
+    /**
+    * ${4:Description for method}
+    */
+        ${3:Code}
+    } 
+
+} 

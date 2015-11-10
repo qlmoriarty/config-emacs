@@ -1,0 +1,128 @@
+ls
+cd ruby-lang
+ls
+irb
+ruby 1.rb
+ls
+ls
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+irb 
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ls
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb
+ruby ruby_first.rb 
+ruby ruby_first.rb 
+ruby ruby_first.rb 
+ruby ruby_first.rb 
+ruby ruby_first.rb 
+ruby ruby_first.rb 
+ruby ruby_first.rb 
+ruby ruby_first.rb 
+ls
+mkdir emacs_magit
+cd emacs_magit/
+;s
+ls
+git init && git add . && git commit -m "first commit"
+touch some.txt
+mkdir some_folder
+git status
+l
+l
+clear
+git status
+start
+cd sites
+ls
+mkdir last-time-wp
+stop
+l
+clear
+clear
+vim .vimrc
+cd
+mkdir test_oop
+cd ..
+cd Downloads/
+ls
+cd cedet-1.1/
+ls
+make EMACS=emacs
+cd cedet-1.0pre6
+l
+cat INSTALL 
+l
+tern
+npm -g install tern
+npm install -g tern
+cd 
+cd Documents/
+cd books/
+ls
+wget http://rigidus.ru/resources/emacs-lisp-man.pdf
+ls
+l
+clear
+.emacs.d              Downloadscd w
+cd 
+cd fakeimg/
+wget http://fakeimg.pl/352x352/?text=img1&font=lobster
+php -S localhost:8000
+git add .
+git commit -m 'added last changes'
+clear
+ls
+clera
+clear
+ls
+cd 
+ls
+cd sites
+ls
+ls
+cd ..
+ls
+m
+mkdir test_emacs_method_complite
+cd test_emacs_method_complite/
+subl .
+ls
+subl .
+cd /Applications/
+ls
+cd sublime
+ls
+cd Sublime\ Text.app/
+ls
+cd Contents/
+ls
+open .
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ls
+ctgs -R -e
+ctgs -R 
+ctags -R -e
+ls
+brwer
+brew install gtags
+ls
+brew install gtags
+brew install global
+brew install global 
+test_emacs_method_complite λsudo  brew install global 
+test_emacs_method_complite λ sudo  brew install global  

@@ -1,0 +1,1 @@
+("~/.emacs.d/" "/usr/local/" "~/sites/wordpress shop/" "~/emacs_magit/" "~/Sites/WORK/jekyll/axa_multilang/" "~/Sites/WORK/jekyll/jekyll-multiple-languages-plugin/" "~/Sites/WORK/jekyll/axa_important/" "~/Sites/wordpress shop/" "~/sites/WORK/wordpress/wp-content/themes/bergolio/")

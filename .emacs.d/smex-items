@@ -1,0 +1,61 @@
+
+;; ----- smex-history -----
+(
+ web-mode
+ eval-buffer
+ magit-status
+ ido-mode
+ dired
+ make-directory
+ eval-region
+)
+
+;; ----- smex-data -----
+(
+ (eval-buffer . 70)
+ (mkdir . 3)
+ (dired . 13)
+ (package-install . 13)
+ (projectile-find-file . 1)
+ (shell . 1)
+ (magit-gitignore . 1)
+ (magit-commit . 3)
+ (magit-add-change-log-entry . 2)
+ (magit-mode . 1)
+ (js-mode . 1)
+ (company-jquery . 11)
+ (company-mode . 4)
+ (term . 1)
+ (find-tag . 4)
+ (ctags-update . 2)
+ (nodejs-repl . 1)
+ (js2-mode . 1)
+ (skewer-mode . 1)
+ (skewer-repl . 1)
+ (shell-script-mode . 1)
+ (execute-extended-command . 1)
+ (package-list-packages . 3)
+ (google-this . 1)
+ (jquery-doc . 2)
+ (ac-complete . 4)
+ (ac-js2-company . 4)
+ (ac-js2-mode . 1)
+ (company-complete-common . 4)
+ (global-auto-complete-mode . 1)
+ (customize-face . 2)
+ (customize-saved . 1)
+ (web-mode . 7)
+ (web-mode-enable . 1)
+ (powerline-vim-theme . 1)
+ (flycheck-mode . 1)
+ (magit-status . 7)
+ (helm-ack . 3)
+ (toggle-word-wrap . 2)
+ (tetris . 1)
+ (eval-region . 4)
+ (google-this-mode . 1)
+ (make-directory . 3)
+ (dired-do-redisplay . 1)
+ (neotree-change-root . 1)
+ (ido-mode . 1)
+)

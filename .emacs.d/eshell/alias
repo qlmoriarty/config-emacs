@@ -1,0 +1,4 @@
+alias start sudo apachectl start && sudo /usr/local/mysql/support-files/mysql.server start
+alias stop sudo apachectl stop && sudo /usr/local/mysql/support-files/mysql.server stop
+alias restart sudo apachectl restart && sudo /usr/local/mysql/support-files/mysql.server restart
+alias l ls -a

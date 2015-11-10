@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+
+# name: function
+# key: function
+# --
+
+    function ${1:function_name}() { 
+    /**
+    * ${2:Description for method}
+    */
+        ${3:Code}
+    } 
+
+} 
